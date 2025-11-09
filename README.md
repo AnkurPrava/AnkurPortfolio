@@ -1,61 +1,108 @@
-# Hi there 👋, I'm Ankur Prava
+# 🚀 Career Overhaul 2025–2026: From SDET → AI Backend Developer → Architect
 
-🚀 **Senior SDET | Lead QA | Test Architect | Software Engineer**
+Welcome to my **public career transformation repository** — a structured, documented journey to transition from a Senior SDET role into a full-fledged **AI Backend Developer** and, ultimately, **Software Architect**.
 
----
-
-### 👨‍💻 About Me
-- 🔍 Currently seeking opportunities as **Lead QA, QA Manager, Test Architect, or Senior Software Engineer**.
-- 🏆 7+ years of experience in **automation testing, framework development, and AI-driven solutions**.
-- 🤖 Passionate about **AI, ML, and automation-driven quality assurance**.
-- 📈 Expertise in **Test Automation, Performance Testing, CI/CD, and Generative AI**.
-- 💡 Strong background in **Python, JavaScript, AWS, Docker, Kafka, and Redis**.
+This repository contains everything: my weekly progress tracker, resource map, learning notes, and the production-grade AI and backend projects I’m building along the way.
 
 ---
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankur-prava) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankurprava.123@gmail.com)
+## 🧭 Purpose
+
+After 8+ years in automation and QA engineering, I’m evolving my technical depth to focus on **building, scaling, and architecting backend + AI systems**.
+
+This repo serves 3 goals:
+1. **Accountability:** Transparent, weekly progress toward my goal.
+2. **Showcase:** Real, deployable projects demonstrating backend and AI expertise.
+3. **Branding:** Proof of consistency and deep learning — not just skill listing.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🗓️ Roadmap Overview
 
-#### 🔹 Languages & Frameworks:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![PyTest](https://img.shields.io/badge/PyTest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)  
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)
+| Phase | Timeline | Focus Area | Key Outcome |
+|-------|-----------|-------------|--------------|
+| 1 | Nov–Dec 2025 | Python Backend Mastery | Production-grade FastAPI apps + CI/CD |
+| 2 | Jan–Feb 2026 | LLM & RAG Systems | AI-driven APIs with embeddings & vector DBs |
+| 3 | Mar–Apr 2026 | AI Agents & Architecture | Agent-based microservices, observability |
+| 4 | May–Jun 2026 | Architect-Level System | Scalable AI platform + AWS deployment |
 
-#### 🔹 DevOps & Cloud:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-#### 🔹 Databases & Messaging:
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-
-#### 🔹 CI/CD & Automation:
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Each phase is broken into weekly sprints with deliverables — tracked in `00_Weekly_Tracker.md`.
 
 ---
 
-### 📌 Featured Projects
-- 🚀 **[PyTest Automation Framework](https://github.com/ankurprava/pytest-framework)** – A scalable automation framework for API & UI testing.
-- 🤖 **[AI Slackbot for QA](https://github.com/ankurprava/ai-slackbot)** – Automating answers from Confluence, JIRA, and Slack knowledge bases.
-- ⚡ **[Performance Testing Suite](https://github.com/ankurprava/perf-testing)** – A JMeter-based framework for high-load applications.
+## 💻 Current Focus — November 2025
+**Phase 1: Backend Foundations**
+
+- Mastering FastAPI, async design, and clean architecture.
+- Building a scalable **Task Tracker API** with:
+  - CRUD + JWT Auth  
+  - Dockerized deployment  
+  - GitHub Actions CI/CD  
+  - AWS EC2 hosting  
+- Publishing weekly commits and architecture notes.
+
+🟩 *[Track Weekly Progress →](./00_Weekly_Tracker.md)*  
+📚 *[View Learning Resources →](./01_Resources.md)*
 
 ---
 
-### 📈 GitHub Stats
-![Ankur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankurprava&show_icons=true&theme=radical)
+## 🧩 Projects (Will Be Added as Completed)
 
-📊 **Most Used Languages:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankurprava&layout=compact&theme=radical)
+| Project | Description | Tech Stack | Status |
+|----------|--------------|-------------|--------|
+| **Task Tracker API** | FastAPI backend with JWT, Docker, CI/CD | FastAPI, SQLAlchemy, AWS EC2 | 🔄 In Progress |
+| **Scalable URL Shortener** | Async API with Redis caching and RDS | FastAPI, Redis, AWS RDS | ⏳ Planned |
+| **Document Q&A API (RAG)** | LLM-based retrieval-augmented system | FastAPI, LangChain, Chroma | ⏳ Planned |
+| **AI Code Reviewer Agent** | LangChain agent reviewing GitHub PRs | FastAPI, LangChain, OpenAI, GitHub API | ⏳ Planned |
+| **AI Knowledge Platform** | Full multi-source RAG + AWS deployment | FastAPI, LangChain, Redis, Terraform | ⏳ Planned |
 
 ---
 
-🌟 **Let's build something amazing together!** Feel free to connect with me 🚀
+## ⚙️ Tech Stack & Tools
+
+**Languages:**  
+Python (Primary) • Go (Secondary)
+
+**Backend:**  
+FastAPI • Flask • SQLAlchemy • Pydantic
+
+**AI & LLM:**  
+LangChain • OpenAI API • ChromaDB • Pinecone • Vector Search
+
+**Cloud & DevOps:**  
+AWS (EC2, S3, RDS, Lambda, ECS) • Docker • Terraform • GitHub Actions • Prometheus • Grafana
+
+**Databases & Queues:**  
+MySQL • Redis • Kafka
+
+**Testing & Quality:**  
+PyTest • Allure • Coverage • MyPy • Black
+
+---
+
+## 📈 Progress Snapshot
+
+This table will update monthly to track milestones and learning depth.
+
+| Month | Focus | Completion % | Key Outcome |
+|--------|--------|--------------|-------------|
+| Nov 2025 | Python + FastAPI Foundations | ▓▓▓░░░░░░ 30% | CRUD API, CI/CD setup |
+| Dec 2025 | System Design + Scalability | ▓▓▓▓░░░░░ 45% | Redis, RDS, Rate Limiting |
+| Jan 2026 | RAG Pipeline | ▓▓▓▓▓░░░░ 60% | LLM + Vector DB Integration |
+| Mar 2026 | Agent Systems | ▓▓▓▓▓▓░░░ 75% | GitHub Code Reviewer Agent |
+| Jun 2026 | AI Platform + Architecture | ▓▓▓▓▓▓▓▓▓ 100% | AWS-deployed Final Platform |
+
+---
+
+## 🧠 Learning Philosophy
+
+> “Depth compounds. Build systems that last, not scripts that pass.”
+
+- Focus on **conceptual depth** before tooling.  
+- Build and deploy **every concept** you learn.  
+- No skipping weeks — public accountability is the guardrail.
+
+---
+
+## 🧩 Repo Structure
+
